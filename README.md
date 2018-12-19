@@ -9,7 +9,7 @@
      
 ## Demo Videos
 
- * ![]()
+ * ![](app/public/images/plexx.gif?raw=true)
  
 ## Technologies Used
 
