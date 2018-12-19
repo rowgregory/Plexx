@@ -28,6 +28,8 @@ Game.Preloader.prototype = {
 
         this.load.image('titlescreen','/images/titlescreen.png');
 
+        this.load.image('button','/images/button.png');
+
         this.load.spritesheet('bad_dude','/images/bad_dude.png', 32, 48);
 
         this.load.spritesheet('monkey','/images/monkey.png', 32, 32);
