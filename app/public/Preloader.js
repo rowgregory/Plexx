@@ -26,6 +26,8 @@ Game.Preloader.prototype = {
        
         this.load.image('tileset','/images/new_tileset.png');
 
+        this.load.image('titlescreen','/images/titlescreen.png');
+
         this.load.spritesheet('bad_dude','/images/bad_dude.png', 32, 48);
 
         this.load.spritesheet('monkey','/images/monkey.png', 32, 32);
