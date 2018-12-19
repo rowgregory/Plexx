@@ -404,6 +404,9 @@ var testMonkeySound1;
 Game.Level1.prototype = {
 
     create: function(game) {
+
+        this.state.start('MainMenu');
+
         this.stage.backgroundColor = '#5084A3'
 
         // background = this.game.add.image(0, 0, 'background');
