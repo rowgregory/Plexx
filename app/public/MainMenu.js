@@ -7,6 +7,7 @@ Game.MainMenu.prototype = {
 
     create:function(game) {
 
+        this.createButton(game, )
 
     },
 
@@ -22,8 +23,12 @@ Game.MainMenu.prototype = {
         button1.width = w;
         button1.height = h;
 
-        var txt = game.add.text(button1.x, button1.y, string, {font:"14px Arial", fill
-                                                            : "#fff", align:"center"});
-        
+        var txt = game.add.text(button1.x, button1.y, string, {
+            font:"14px Arial", 
+            fill:"#fff",
+            align:"center"
+        });
+        txt.anchor.setTo(0.5, 0.5);
+
     }
 }
