@@ -405,7 +405,7 @@ Game.Level1.prototype = {
 
     create: function(game) {
 
-        this.state.start('MainMenu');
+        // this.state.start('MainMenu');
 
         this.stage.backgroundColor = '#5084A3'
 
