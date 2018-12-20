@@ -28,6 +28,7 @@
 ## Authors
 
  * **Gregory Row** - *Initial work* - [rowgregory](https://github.com/rowgregory)
+  * **Scott Sawyer** - *Initial work* - [scottasawyer](https://github.com/scottasawyer)
 
 ## License
 
