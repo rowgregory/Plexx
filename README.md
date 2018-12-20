@@ -28,7 +28,9 @@
 ## Authors
 
  * **Gregory Row** - *Initial work* - [rowgregory](https://github.com/rowgregory)
-  * **Scott Sawyer** - *Initial work* - [scottasawyer](https://github.com/scottasawyer)
+ * **Scott Sawyer** - *Initial work* - [scottasawyer](https://github.com/scottasawyer)
+ * **Bobby Hoffman** - *Initial work* - [rhoffman103](https://github.com/rhoffman103)
+ * **Rick Knowlton** - *Initial work* - [rickknowlton](https://github.com/rickknowlton)
 
 ## License
 
