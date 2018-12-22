@@ -445,17 +445,6 @@ Game.Level1.prototype = {
         map.setCollisionBetween(23, 24);
         map.setCollisionBetween(86, 93);
         map.setCollisionBetween(107, 110);
-        // map.setCollisionBetween(118, 181);
-        // map.setCollisionBetween(247, 268);
-
-        // map.setCollisionBetween(652, 672);
-        // map.setCollisionBetween(691, 712);
-        // map.setCollisionBetween(731, 743);
-        // map.setCollisionBetween(745,756);
-        // map.setCollisionBetween(771,783);
-        // map.setCollisionBetween(785,792);
-        // map.setCollisionBetween(888,890);
-        // map.setCollisionBetween(848, 852);
         map.setCollisionBetween(309, 313);
         map.setCollisionBetween(719,721);
         map.setCollisionBetween(805,811);
@@ -464,16 +453,12 @@ Game.Level1.prototype = {
         map.setCollisionBetween(895,896);
         map.setCollisionBetween(980,985);
         map.setCollisionBetween(992,998);
-        
         map.setCollisionBetween(1051, 1060);
         map.setCollisionBetween(1067,1078);
         map.setCollisionBetween(1137,1148);
-
-        // map.setCollision(1147);
         map.setCollisionBetween(1225,1232);
         map.setCollisionBetween(1254,1259);
         map.setCollisionBetween(1292, 1309);
-
         map.setCollisionBetween(1300, 1318);
         map.setCollisionBetween(1384, 1385);
         map.setCollisionBetween(1395, 1399);
@@ -490,8 +475,6 @@ Game.Level1.prototype = {
         map.setCollisionBetween(1808, 1809);
         map.setCollisionBetween(1820,1824);
         map.setCollisionBetween(1905, 1909);
-        
-        // map.setCollisionBetween(1820, 1824);
         map.setCollisionBetween(1990, 1994);
         map.setCollisionBetween(1998, 2001);
         map.setCollisionBetween(2075, 2079);
@@ -499,16 +482,12 @@ Game.Level1.prototype = {
         map.setCollisionBetween(2160, 2171);
         map.setCollisionBetween(2330, 2334);
         map.setCollisionBetween(2415, 2419);
-
-
-        // map.setCollisionBetween(2445, 2449);
         map.setCollisionBetween(2500, 2511);
         map.setCollisionBetween(2585, 2596);
         map.setCollisionBetween(2670, 2678);
         map.setCollisionBetween(2755, 2759);
         map.setCollisionBetween(2840, 2844);
         map.setCollisionBetween(2925, 2933);
-
         map.setCollisionBetween(3095, 3099);
         map.setCollisionBetween(3010, 3014);
         map.setCollisionBetween(3180, 3184);
@@ -533,7 +512,6 @@ Game.Level1.prototype = {
         map.setCollisionBetween(4792, 4799);
         map.setCollisionBetween(4877, 4884);
         map.setCollisionBetween(4962, 4969);
-
         map.setCollisionBetween(4857, 4861);
         map.setCollisionBetween(4941, 4944);
         map.setCollisionBetween(5026, 5031);
@@ -543,7 +521,6 @@ Game.Level1.prototype = {
         map.setCollisionBetween(5193, 5200);
         map.setCollisionBetween(5278, 5283);
         map.setCollisionBetween(5314, 5332);
-       
         map.setCollisionBetween(5365, 5370);
         map.setCollisionBetween(5390, 5394);
         map.setCollisionBetween(5440, 5454);
