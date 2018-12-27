@@ -8,6 +8,7 @@ Game.Boot.prototype = {
 
     init:function() {
 
+        
         this.input.maxPointers = 1;
 
         this.state.disableVisibilityChange = true;
@@ -15,12 +16,17 @@ Game.Boot.prototype = {
     },
 
     preload:function() {
-
-        this.load.image('preloaderBar', '/images/haveFun.png');
+        
+        
+        
+        this.load.image('preloaderBar', '/images/loadingBar.jpg');
+        
+    
     },
 
     create:function() {
-
+        
         this.state.start('Preloader');
+        
     }
 }
