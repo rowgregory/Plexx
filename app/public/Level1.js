@@ -405,6 +405,9 @@ Game.Level1.prototype = {
 
     create: function(game) {
 
+        game.scale.pageAlignHorizontally = true;
+        game.scale.pageAlignVertically = true;
+
         // this.state.start('MainMenu');
 
         this.stage.backgroundColor = '#5084A3'
